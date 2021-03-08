@@ -23,15 +23,19 @@ Python via JupyterNotebooks - data scrubbing
 
 ## Required Deliverables
 * DataFrame for Cryptocurrencies - final cleaned
+
 ![DataFrame for Cryptocurrencies - final cleaned](https://github.com/basecipher/Cryptocurrencies/blob/main/Images/DataFrame%20for%20Cryptocurrencies%20-%20final%20cleaned.png)
 
 * Elbow Curve - k=4
+
 ![Elbow Curve - k=4](https://github.com/basecipher/Cryptocurrencies/blob/main/Images/Elbow%20Curve%20-%20k%3D4.png)
 
 * PCA - 3 principal components
+
 ![PCA - 3 principal components](https://github.com/basecipher/Cryptocurrencies/blob/main/Images/PCA%20-%203%20principal%20components.png)
 
 * Table - tradable cryptocurrencies
+
 ![Table - tradable cryptocurrencies](https://github.com/basecipher/Cryptocurrencies/blob/main/Images/Table%20-%20tradable%20cryptocurrencies.png)
 
 ## Conclusion: 
